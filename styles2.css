@@ -1,0 +1,77 @@
+div.profile
+ {
+	text-align:center;
+	background-color:brown;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	color:white;
+	}
+div img 
+	{
+		text-align:center;
+		width:150px;
+		height:150px;
+		border-radius:50%;
+		position:center;
+		}
+div.info 
+	{
+		border:2px solid brown;
+		border-radius:20px;
+		}
+div>.name
+{
+	text-align:center;
+	}
+.image h3 
+{
+	border: 2px solid purple;
+	width:270px;
+	position:relative;
+	left:550px;
+	}
+.box hobbies 
+{
+	width:100%;
+	text-align:center;
+	}
+div.image
+ {
+	 color:yellow;
+	 font-family:monospace;
+	 font-size:24px;
+	 text-align:center;
+	 padding:10px;
+	 margin-left:80px;
+	 }
+strong
+ {
+	 font-size:16px;
+	 }
+div.box
+ {
+	 background-color:black;
+	 text-align:center;
+	 color:yellow;
+	 border:2px solid black;
+	 border-radius:12px;
+	 display:block;
+	 
+	 width:100%;
+	 float:left;
+	 margin-right:130px;
+	 margin-top:15px;
+	 height:170px;
+	 }
+div ul 
+{
+	list-style-type:upper-roman;
+	}
+
+div.certificate 
+{
+	width:100%;
+	text-align:center;
+	font-family:"Times New Roman";
+	font-size:17px;
+}
+
